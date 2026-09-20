@@ -28,7 +28,6 @@ html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:#f7f4ea;fon
 .page-head p:last-child{max-width:650px;color:#aaa69d;font-size:17px;line-height:1.7}
 .athlete-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;padding-top:40px}
 .athlete-card{background:#111;border:1px solid #20201e;overflow:hidden}
-.athlete-card.featured{grid-column:span 2}
 .athlete-card img{width:100%;height:510px;object-fit:cover;object-position:center 35%;display:block}
 .athlete-card.featured img{height:650px}
 .athlete-card div{padding:24px}
